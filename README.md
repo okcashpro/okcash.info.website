@@ -1,7 +1,7 @@
 # okcash.info
 Okcash Tutorials Website - First steps
 
-![OKCash-Info](https://i.imgur.com/Bl1oSL9.png)
+![OKCash-Info](https://i.imgur.com/4NmSwaS.png)
 
 
 ### Join the new communications server
